@@ -30,6 +30,7 @@ Double click on the Application item to launch the program.
 OpenRefine will initially launch via a terminal window. This window will need to remain open while you are using the program.
 
 <blockquote>What is the command line?
+  &nbsp;
 
 Most of the time, we interact with digital technology via graphical user interfaces (GUI). The Command Line Interface (CLI) is an alternate way of working with a computer to navigate folder structures, create and edit files, and launch software programs.</blockquote>
 
@@ -48,7 +49,7 @@ OpenRefine’s default language is English, but you can choose from a range of l
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/OpenRefine-tutorial/blob/master/screenshots/Capture_4.jpg?raw=true" alt="Capture" /></p>
 
-Click Browse and select the CSV files you saved to your Desktop. 
+Click the Browse button and select the CSV files you saved to your Desktop. 
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/OpenRefine-tutorial/blob/master/screenshots/Capture_5.jpg?raw=true" alt="Capture" /></p>
 
@@ -75,6 +76,7 @@ Our last step before working with the data in OpenRefine is to select a characte
 Select UTF-8 from the list of options. [Click here](https://www.w3schools.com/charsets/ref_html_utf8.asp) to learn more about UTF-8 character encoding.
 
 <blockquote>What is Character Encoding? 
+  &nbsp;
 
 According to the [World Wide Web Consortium (W3C)](https://www.w3.org/International/questions/qa-what-is-encoding), “all characters are stored in computers using a special code, like the ciphers used in espionage. A character encoding provides a key to unlock (ie. crack) the code. It is a set of mappings between the bytes in the computer and the characters in the character set. Without the key, the data looks like garbage.” Character encoding is especially significant when moving data across platforms (Google Sheets to Microsoft Excel to OpenRefine, etc.) and when working with languages that have special characters. </blockquote>
 
